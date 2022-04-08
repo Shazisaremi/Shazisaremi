@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shazisaremi
-- 👀 I’m interested in ML, DataScience and python
+- 👀 I’m interested in AI , ML, DataScience and python
 - 🌱 I’m currently teaching on Torrens University
 - 📫 email to Shazi.saremi@torrens.edu.au
 
