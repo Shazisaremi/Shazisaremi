@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Shazisaremi
-- 👀 I’m interested in AI , ML, DataScience and python
-- 🌱 I’m currently teaching on Torrens University
+- Hello My name is Shahrzad Saremi.
+I am a lecturer at Torrens University Australia.
+I received my BA in Information Technology from Multi Media University, Malaysia,MSc in Interaction Design from University of Queensland, and PhD from Griffith University. I have published more than 20 journal articles and one book with over 6000 citations.
+My main research interest in Artificial Intelligent, Machine Learning, Optimisation, and Human Computer Interaction
 - 📫 email to Shazi.saremi@torrens.edu.au
 
 <!---
